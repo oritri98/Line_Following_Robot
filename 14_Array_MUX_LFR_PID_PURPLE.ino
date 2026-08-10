@@ -4,14 +4,6 @@
 #include <EEPROM.h>
 SSD1306AsciiWire oled;
 
-//git add <the_file_you_want>
-//git commit -m "Initial commit"
-//git push -u origin master
-
-
-
-
-
 // Define control pins for the multiplexer
 #define S0 11
 #define S1 10
